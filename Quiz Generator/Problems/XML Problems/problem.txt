@@ -1,0 +1,27 @@
+<problem>
+    <header>
+    This is the header.
+    </header>
+    <calculations>
+    PI = 3.1415926;
+    r = 4.0;
+    x = %randInt(1,5);
+    rx = r * x;
+    </calculations>
+    <question ef="4" units="">
+        <statement>
+            What is r *x?
+        </statement>
+        <answer>
+            rx
+        </answer>
+    </question>
+    <question ef="4" units="">
+        <statement>
+            Disp: x=$x.
+        </statement>
+        <answer>
+            x
+        </answer>
+    </question>
+</problem>

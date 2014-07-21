@@ -1,0 +1,20 @@
+<problem>
+    <header>
+    This is the header.
+    </header>
+    <calculations>
+    a = 27;
+    b = 4;
+    c = -39;
+    avgsq = (a^2 + b^2 + c^2)/3;
+    rms = avgsq^0.5;
+    </calculations>
+    <question ef="4" units="">
+        <statement>
+            What is the root-mean-square of $a, $b, and $c?
+        </statement>
+        <answer>
+            rms
+        </answer>
+    </question>
+</problem>

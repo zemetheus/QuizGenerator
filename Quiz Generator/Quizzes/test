@@ -1,0 +1,19 @@
+==  Version A==
+<quiz display=simple>
+{This is the header.}
+
+{What is r *x?}
+- 2.53E0 
+- 4.50E0 
++ 8.00E0 
+- 1.42E1 
+- 2.53E1 
+
+{Disp: x=2.0.}
+- 6.32E-1 
+- 1.12E0 
++ 2.00E0 
+- 3.56E0 
+- 6.32E0 
+
+</quiz>
